@@ -34,8 +34,6 @@
     <name>Spark Streaming Pulsar Receivers Tests</name>
     <properties>
         <scala-library.version>2.11.12</scala-library.version>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
     </properties>
 
     <dependencies>
