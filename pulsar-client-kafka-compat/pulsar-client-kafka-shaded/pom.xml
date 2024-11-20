@@ -39,6 +39,8 @@
 
   <properties>
     <kafka.version>0.10.2.1</kafka.version>
+    <maven.compiler.source>17</maven.compiler.source>
+    <maven.compiler.target>17</maven.compiler.target>
   </properties>
 
   <dependencies>
