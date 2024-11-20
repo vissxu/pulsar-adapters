@@ -35,6 +35,10 @@
   <name>Pulsar Kafka compatibility :: API (original)</name>
 
   <description>Kafka client library that publishes and consumes messages on Pulsar topics</description>
+  <properties>
+    <maven.compiler.source>17</maven.compiler.source>
+    <maven.compiler.target>17</maven.compiler.target>
+  </properties>
 
   <dependencies>
     <dependency>
